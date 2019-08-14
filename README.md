@@ -27,3 +27,4 @@ npm start
 ## Contributors
 Valeriy Djulai  
 Max Newman
+Damian Lazarevski
